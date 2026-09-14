@@ -1,0 +1,41 @@
+WarioWare, Inc.: Mega Microgame$!:
+https://www.mariowiki.com/WarioWare,_Inc.:_Mega_Microgame$!
+
+List of WarioWare, Inc.: Mega Microgame$! Microgames:
+https://www.mariowiki.com/List_of_WarioWare,_Inc.:_Mega_Microgame$!_microgames
+
+Microgame:
+https://www.mariowiki.com/Microgame
+
+Crazy Cars:
+https://www.mariowiki.com/Crazy_Cars
+
+Mug Shot:
+https://www.mariowiki.com/Mug_Shot_(WarioWare,_Inc.:_Mega_Microgame$!)
+
+Dodge Balls:
+https://www.mariowiki.com/Dodge_Balls
+
+Super Wario Bros:
+https://www.mariowiki.com/Super_Wario_Bros
+
+Q-Learning Explained - Reinforcement Learning Tutorial:
+https://www.youtube.com/watch?v=kEGAMppyWkQ
+
+Gym Retro Main Page:
+https://openai.com/index/gym-retro/
+
+Stable Retro Documantation:
+https://stable-retro.farama.org/getting_started/
+
+Building the Integration UI:
+https://stable-retro.farama.org/developing/
+
+Stable Retro Game Integration:
+https://stable-retro.farama.org/integration/
+
+WSL2 and Ubuntu 22.04 Setup:
+https://youtu.be/vPnJiUR21Og?si=KI_RrZev8NE-M_lr
+
+Environment creation using the Integration UI:
+https://youtu.be/lPYWaUAq_dY?si=r5h4JAujN5bTQVVX
